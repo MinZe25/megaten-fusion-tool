@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7cf89159-d6aa-46e7-883d-d9b1823f6df8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/base-package-json.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/demon-fissions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/demon-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/demon-pages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/nginx.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/update-assets-subpath.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngsw-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/bases/configurable-fusion-data.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/bases/demon-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/bases/skill-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/compendium.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/demon-inherits.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/demon-list-header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/demon-missing.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/demon-resists.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/demon-skills.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/demon-stats.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/fission-preview-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/fusion-chart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/fusion-entry-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/fusion-multi-pair-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/fusion-pair-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/fusion-settings.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/fusion-trio-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/recipe-generator.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/skill-list-header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/smt-demon-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/smt-fission-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/smt-fusion-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/smt-fusions.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/smt-skill-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/tri-fission-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/tri-fusion-chart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/components/tri-fusion-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/containers/demon-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/containers/fusion-settings.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/containers/skill-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/current-demon.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/data/demon-names.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/data/elem-names.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/data/enemy-names.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/data/fusion-tools.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/data/race-names.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/data/skill-effects.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/data/skill-names.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/data/translations.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/dssh-entity-fissions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/mjn-rank-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/p5s-nonelem-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/per-element-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/per-nonelem-fissions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/per-nonelem-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/per-triple-fissions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/per-triple-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/smt-element-fissions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/smt-element-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/smt-nonelem-fissions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/smt-nonelem-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/snes-dark-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/tri-element-fissions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/fusions/tri-element-fusions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models/compendium-translator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models/conversions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models/fusion-settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models/normal-fusion-calculator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models/recipe-generator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models/smt-fusion-chart.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models/translator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/models/triple-fusion-calculator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/compendium/pipes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/ove-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/ove-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/ove-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/price-pbox.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/van-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/van-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/van-skill-cards.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu1/data/van-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/rec-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/rec-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/rec-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/rec-special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/van-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/van-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/van-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/desu2/data/van-special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/dark-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/inherit-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/nemechi-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/nemechi-extras.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/norm-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dssh/data/triple-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/dark-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/dark-triple-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/jap-demons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/jap-psp-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/jap-sat-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/norm-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/norm-triple-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dsum/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/extra-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krao/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/data/extra-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/krch/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn1/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn1/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn1/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn1/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn1/data/jap-demons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn1/data/jap-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn1/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/data/jap-demons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/data/jap-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/mjn2/data/triple-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/compendium-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/compendium.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/compendium.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/demon-entry.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/demon-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/enemy-entry.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/fusion-chart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/p1-fission-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/p1-fusion-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/components/skill-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/growth-types.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/party-affinity.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/fusion-data.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/models/compendium.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/models/conversions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/models/fusion-chart.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p1/p1-compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/jap-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/mutations.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/party-affinities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/skill-cards.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2b/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/growth-types.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/jap-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/mutations.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/party-affinities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/skill-cards.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p2t/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/accessories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/ans-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/ans-enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/ans-party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/ans-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/fes-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/fes-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/fes-fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/fes-party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/fes-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/fes-special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/inheritance-types.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/p3p-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/p3p-party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/p3p-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/pair-special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/van-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/van-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/van-enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/van-fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/van-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3/data/van-special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/aeg-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/aeg-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/aeg-enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/aeg-party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/aeg-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p3r/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/golden-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/golden-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/golden-enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/golden-fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/golden-party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/golden-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/inheritance-types.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p4/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/dlc-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/inheritance-types.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-accessories.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-dlc-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/roy-special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5/data/subboss-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/compendium-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/components/compendium.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/components/compendium.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/components/demon-entry.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/components/demon-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/components/fusion-chart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/components/p5s-fission-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/components/p5s-fusion-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/components/skill-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/data/down-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/data/pair-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/data/party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/fusion-data.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/models/compendium.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/models/conversions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5s/models/fusion-chart.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5t/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5t/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5t/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5t/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5t/data/dlc-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5t/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5t/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/p5t/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/demon-codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/skill-codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/compendium-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/compendium.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/compendium.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/demon-entry.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/demon-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/enemy-entry.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/fusion-chart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/fusion-settings.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/p5-fission-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/password-generator.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/qrcode-component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/recipe-generator.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/components/skill-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/demon-codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/party-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/skill-codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/fusion-data.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/models/compendium.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/models/password-generator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/models/per-fusion-chart.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/models/skill-importer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pq2/pq-compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/confine-drops.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/rrch/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sh2/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sh2/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sh2/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sh2/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sh2/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sh2/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sh2/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/sh2/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/column-widths.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/position-edges.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/position-edges.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/position-sticky.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/shared.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/sorted-table.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/compendium-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/components/compendium.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/components/compendium.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/components/demon-entry.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/components/demon-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/components/fusion-chart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/components/skill-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/components/species-triple-chart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/alignments.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/jap-demons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/jap-drops.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/jap-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/data/triple-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/fusion-data.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/models/compendium.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/models/fusion-chart.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/models/species-fusion-chart.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt1/smt-snes-compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/alignments.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/jap-demons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/jap-drops.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/jap-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt2/data/triple-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/cursed-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/demon-extras.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/evolutions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/magatama-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt3/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/affinity-bonuses.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/alignments.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/evolutions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/compendium-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/compendium.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/compendium.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/demon-entry.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/demon-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/fusion-chart.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/fusion-settings.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/password-generator.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/recipe-generator.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/components/skill-list.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/affinity-bonuses.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/enemy-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/evolutions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/password-pbox.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/fusion-data.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/models.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/models/compendium.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/models/fusion-chart.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/models/password-generator.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt4f/smt4-compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/affinity-bonuses.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/alignments.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/comp-costs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/innate-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/periapt-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/talisman-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/ven-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/ven-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/ven-fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/ven-fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/ven-skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt5/data/ven-special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/dark-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/jap-demons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/jap-drops.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/jap-plugins.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/jap-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smt9/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtif/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtif/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtif/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtif/data/jap-demons.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtif/data/jap-drops.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtif/data/jap-skills.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtif/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtif/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/data/alignments.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtim/data/triple-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/compendium.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/alignments.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/boss-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/comp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/demon-codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/element-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/fusion-chart.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/redux-demon-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/redux-demon-unlocks.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/redux-fusion-prereqs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/redux-special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/skill-codes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/skill-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/smtsj/data/special-recipes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/101000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/101010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/201020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/202010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/202020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/303030.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/303132.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/505050.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/540000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/606060.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/636363.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/727272.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/904010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/909000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/909090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/949494.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/almighty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/autogun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/axe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/blast.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/bless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/curse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/death.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/earth.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/elec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/expel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/fire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/gravity.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/handgun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/havoc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/ice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/miracle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/nerve.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/nuke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/occult.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/prayer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/rifle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/rush.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/shotgun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/spear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/strike.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/sword1h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/sword2h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/thrown.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/whip.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p1/wind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/ailment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/almighty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/bless.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/curse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/elec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/fire.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/gun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/healing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/ice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/nuke.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/passive.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/phys.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/psy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/support.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/sword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/trait.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/p5/wind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smt4f/bind.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smt4f/curse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smt4f/force.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smt4f/gun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smt4f/panic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smt4f/poison.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smt4f/smirk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smt4f/sword.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/ail.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/alm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/cur.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/ele.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/exp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/fir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/gun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/ice.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/lif.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/man.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/pas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/phy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/rec.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/spe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/sup.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/smtsj/win.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/js/qrcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manifest.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/update-version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.spec.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="310qOiMapA8mQbaHaZERfsv209k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "gh-pages",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.Angular CLI Server.executor": "Run",
+    "npm.build.executor": "Run",
+    "ts.external.directory.path": "D:\\Aitor\\dev\\megaten-fusion-tool\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
+      <method v="2" />
+    </configuration>
+    <configuration name="Angular CLI Server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-WS-251.26094.131" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cf89159-d6aa-46e7-883d-d9b1823f6df8" name="Changes" comment="" />
+      <created>1754671309382</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754671309382</updated>
+      <workItem from="1754671312087" duration="2987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
